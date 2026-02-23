@@ -133,6 +133,8 @@ O portifólio simula um Walkman dos anos 80 mas com estética cósmica e futuris
 ## 🛠 Tecnologias Utilizadas
 
 💻 React: Biblioteca principal para a construção da interface.
+
+
 ⚙️ Vite: Ferramenta de build para um desenvolvimento rápido e otimizado.
 
 

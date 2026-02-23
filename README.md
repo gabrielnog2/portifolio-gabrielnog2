@@ -35,8 +35,22 @@
 
 
 
-[![Versão](https://img.shields.io/badge/Versão-v1.0.0-blue?style=for-the-badge)](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/releases) ![React](https://img.shields.io/badge/React-19.1.1-007ec6?style=for-the-badge&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-7.1.2-007ec6?style=for-the-badge&logo=vite&logoColor=white) ![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software?style=for-the-badge&logo=files) ![GitHub directory file count](https://img.shields.io/github/directory-file-count/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software?style=for-the-badge&logo=files)  ![GitHub forks](https://img.shields.io/github/forks/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software?style=for-the-badge&logo=git) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software?style=for-the-badge&logo=python) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software?style=for-the-badge&color=007ec6&logo=opensourceinitiative) ![Vercel](https://vercelbadge.vercel.app/api/joaopauloaramuni/joaopauloaramuni-portfolio?style=for-the-badge) ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoaopauloaramuni%2Flaboratorio-de-desenvolvimento-de-software&leftColor=555555&rightColor=007ec6&type=total&label=RepoViews)
+[![Versão](https://img.shields.io/github/v/release/gabrielnog2/portifolio-gabrielnog?style=for-the-badge)](https://github.com/gabrielnog2/portifolio-gabrielnog/releases)
 
+![React](https://img.shields.io/badge/React-19.1.1-007ec6?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7.1.2-007ec6?style=for-the-badge&logo=vite&logoColor=white)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/gabrielnog2/portifolio-gabrielnog?style=for-the-badge&logo=files)
+![GitHub directory file count](https://img.shields.io/github/directory-file-count/gabrielnog2/portifolio-gabrielnog?style=for-the-badge&logo=files)
+
+![GitHub forks](https://img.shields.io/github/forks/gabrielnog2/portifolio-gabrielnog?style=for-the-badge&logo=git)
+![GitHub language count](https://img.shields.io/github/languages/count/gabrielnog2/portifolio-gabrielnog?style=for-the-badge&logo=github)
+
+![GitHub license](https://img.shields.io/github/license/gabrielnog2/portifolio-gabrielnog?style=for-the-badge&color=007ec6&logo=opensourceinitiative)
+
+![Vercel](https://vercelbadge.vercel.app/api/gabrielnog2/portifolio-gabrielnog?style=for-the-badge)
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub.com%2Fgabrielnog2%2Fportifolio-gabrielnog&leftColor=555555&rightColor=007ec6&type=total&label=RepoViews)
 ---
 
 ## 📚 Índice

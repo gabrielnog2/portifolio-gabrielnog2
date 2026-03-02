@@ -56,7 +56,7 @@
 ---
 
 ## 🔗 Links Úteis
-* 🌐 **Demo Online:** [Acesse a Aplicação Web](<https://portifolio-gabrielnog.vercel.app/>)
+* 🌐 **Demo Online:** [Acesse a Aplicação Web](https://gabrielnog-portifolio.vercel.app/)
   > 💻 **Descrição:** Link para a aplicação em ambiente de produção ( hospedado na Vercel).
 
 ---
